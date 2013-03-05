@@ -19,9 +19,9 @@ namespace _4D_klanten
         public DataSet dataset = new DataSet();
         public DataTable tt = new DataTable();
 
-        public string host = "192.168.2.4";
+        public string host = "127.0.0.1";
         public string db = "4DConstruct";
-        public string uid = "jensmalf";
+        public string uid = "jens.malfait";
         public string password = "239803";
 
         string cError = "";
